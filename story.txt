@@ -1,3 +1,4 @@
 RAM is my favorite piece of computer hardware! The idea of random access memory was originally created by Alan Turing, who envisioned a theoretical machine that could have symbols writted on and read from an "infinite tape". I recently learned about Alan Turing in my Computer Engineering class. Also, my favorite unsigned binary 8-bit number is 00000110.
 The idea of RAM is very intriguing to me. However, I know very little about the actual workings of RAM. Interesting, but confusing! 
 Just started taking ECE 252, so I am going to know more and more as time goes by. By the end of this semester, I will learn enough to build my own RAM!
+I took CS 252 last semester,learned a fair bit about RAM.
